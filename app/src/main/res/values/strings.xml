@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyPlacePicker</string>
+    <string name="map_api_key">AIzaSyB_DZFckkyvNSPoxT-sZ6fcqqeVVIfL9WM</string>
+    <string name="permission_rationale_location">L\'access au service de géolocalisation est requit pour cette page afin de vous situer sur la carte.</string>
+    <string name="location_permission_denied">Cette page requiert votre position Veuillez réessayer et accorder l\'accès pour utiliser la localisation.\n Si l\'autorisation a été définitivement refusée, elle peut être activée à partir des paramètres système > application > livraison express coursier.</string>
+    <string name="permission_required_toast">Votre position est requise pour cette fonctionnalité.</string>
+</resources>
